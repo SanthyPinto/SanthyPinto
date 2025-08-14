@@ -19,6 +19,11 @@ Here are some of the tools and technologies I love working with:
 - **Tools**: Git, GitHub, Docker, etc.  
 - **Other**: Automation tools, cloud platforms, etc.  
 
+## :zap: Recent activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ## 📫 Get in Touch
 
 - 📧 [Email](mailto:santi_pinto@outlook.com)  
