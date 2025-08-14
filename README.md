@@ -20,9 +20,8 @@ Here are some of the tools and technologies I love working with:
 - **Other**: Automation tools, cloud platforms, etc.  
 
 ## :zap: Recent activity
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ## 📫 Get in Touch
 
