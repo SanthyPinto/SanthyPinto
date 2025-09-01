@@ -21,14 +21,14 @@ Here are some of the tools and technologies I love working with:
 
 ## :zap: Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [SanthyPinto/TestRelease](https://github.com/SanthyPinto/TestRelease)<br>
-2. 📔 Created new repository [SanthyPinto/TestRelease](https://github.com/SanthyPinto/TestRelease)<br>
-3. 💪 Opened PR [#2](https://github.com/SanthyPinto/SetUpSoft/pull/2) in [SanthyPinto/SetUpSoft](https://github.com/SanthyPinto/SetUpSoft)<br>
-4. ⬆️ Pushed 2 commit(s) to [SanthyPinto/SetUpSoft](https://github.com/SanthyPinto/SetUpSoft)<br>
-5. 💪 Opened PR [#1](https://github.com/SanthyPinto/SetUpSoft/pull/1) in [SanthyPinto/SetUpSoft](https://github.com/SanthyPinto/SetUpSoft)<br>
+1. ✌️ Released [v0.1.0](https://github.com/SanthyPinto/TestRelease/releases/tag/v0.1.0) in [SanthyPinto/TestRelease](https://github.com/SanthyPinto/TestRelease)<br>
+2. ⬆️ Pushed 1 commit(s) to [SanthyPinto/TestRelease](https://github.com/SanthyPinto/TestRelease)<br>
+3. 📔 Created new repository [SanthyPinto/TestRelease](https://github.com/SanthyPinto/TestRelease)<br>
+4. 💪 Opened PR [#2](https://github.com/SanthyPinto/SetUpSoft/pull/2) in [SanthyPinto/SetUpSoft](https://github.com/SanthyPinto/SetUpSoft)<br>
+5. ⬆️ Pushed 2 commit(s) to [SanthyPinto/SetUpSoft](https://github.com/SanthyPinto/SetUpSoft)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 1st, 2025, 1:02:50 AM
+Last Updated: Monday, September 1st, 2025, 12:22:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📫 Get in Touch
