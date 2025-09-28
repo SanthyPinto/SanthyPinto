@@ -24,11 +24,9 @@ Here are some of the tools and technologies I love working with:
 1. ✌️ Released [v0.1.0](https://github.com/SanthyPinto/TestRelease/releases/tag/v0.1.0) in [SanthyPinto/TestRelease](https://github.com/SanthyPinto/TestRelease)<br>
 2. ⬆️ Pushed 1 commit(s) to [SanthyPinto/TestRelease](https://github.com/SanthyPinto/TestRelease)<br>
 3. 📔 Created new repository [SanthyPinto/TestRelease](https://github.com/SanthyPinto/TestRelease)<br>
-4. 💪 Opened PR [#2](https://github.com/SanthyPinto/SetUpSoft/pull/2) in [SanthyPinto/SetUpSoft](https://github.com/SanthyPinto/SetUpSoft)<br>
-5. ⬆️ Pushed 2 commit(s) to [SanthyPinto/SetUpSoft](https://github.com/SanthyPinto/SetUpSoft)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 28th, 2025, 2:28:48 AM
+Last Updated: Sunday, September 28th, 2025, 12:18:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📫 Get in Touch
